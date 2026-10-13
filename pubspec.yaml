@@ -1,0 +1,16 @@
+name: sathvika_portfolio
+description: Faithful Flutter/Dart web recreation of Gatla Sathvika's portfolio.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+  flutter: '>=3.16.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  web: ^1.1.1
+
+flutter:
+  uses-material-design: true
